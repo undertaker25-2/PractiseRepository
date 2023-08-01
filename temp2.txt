@@ -1,3 +1,2 @@
 This is temp2 file
 masterbranch
-In Branch1 I made some changes in this file
