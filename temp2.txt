@@ -1,2 +1,2 @@
-temp2 file updated
-g
+This is temp2 file
+masterbranch
